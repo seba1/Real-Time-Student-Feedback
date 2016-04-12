@@ -1,0 +1,11 @@
+@import url(http://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.2/jquery.mobile.min.css);
+.mybtn
+{
+	white-space: normal !important;
+	margin-bottom: 15px;
+}
+.mybtnCenter
+{
+	text-align: center;
+}
+
